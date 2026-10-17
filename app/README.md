@@ -1,12 +1,10 @@
-## 🚀 How to Run (วิธีรันโปรเจกต์)
+## How to Run (วิธีรันโปรเจกต์)
 
 ทำตามขั้นตอนด้านล่างนี้ใน Terminal / Command Line เพื่อรันโปรเจกต์บนเครื่องของคุณ:
 
-1. **Clone Repository (หรือดาวน์โหลดโค้ดมาไว้ที่เครื่อง)**
-   ```bash
-   git clone [https://github.com/ช](https://github.com/ช)ื่อยูสเซอร์ของคุณ/ชื่อเรโป.git
+1.**Clone Repository (หรือดาวน์โหลดโค้ดมาไว้ที่เครื่อง)**
 
-2. **cd ชื่อ repo**
+2. **cd เข้า folder app**
 
 3.**npm install**
 
