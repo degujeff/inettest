@@ -4,7 +4,7 @@ import logoOneImg from "@/assets/one.png";
 import logoProImg from "@/assets/Pro.png";
 import logoicon from "@/assets/icon.png";
 import logomg from "@/assets/mange.png";
-import logobot from "@/assets/robot.jpg";
+import logobot from "@/assets/robot.png";
 
 const router = useRouter();
 
